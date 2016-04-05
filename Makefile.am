@@ -23,4 +23,4 @@ EXTRA_DIST = \
  autogen.sh \
  m4/missing-dev-prog.sh
 
-SUBDIRS = drmaa_utils lsf_drmaa doc
+SUBDIRS = drmaa_utils lsf_drmaa
